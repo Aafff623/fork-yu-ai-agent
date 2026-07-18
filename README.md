@@ -111,4 +111,4 @@ cd yu-ai-agent-frontend && npm run build
 
 ## 维护者与许可
 
-维护者：**threetwoa**。许可证以 [LICENSE](LICENSE) 及[上游仓库](https://github.com/liyupi/yu-ai-agent)声明为准。
+原作者：**李鱼皮（[liyupi](https://github.com/liyupi)）**。二次开发维护者：**threetwoa**。许可证以 [LICENSE](LICENSE) 及[上游仓库](https://github.com/liyupi/yu-ai-agent)声明为准。
